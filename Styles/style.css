@@ -129,6 +129,7 @@ line-height: 0.1;
 .review{
   
     margin-top: 137px;
+    margin-bottom: 0;
 }
 
 .review-title{
@@ -183,3 +184,31 @@ line-height: 0.1;
     font-size: 16px;
     color: #25243271;
 }
+
+
+/* Focus Section Styles */
+.focus{
+    margin-top: 137px;
+    padding: 71px 150px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.068);
+}
+
+.focus-title{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.focus-description{
+    margin-top: 0;
+    color: #00000085;
+    margin-bottom: 20px;
+}
+
+.focus img{
+    margin-top: 20px;
+    border-radius: 48px;
+}
+
