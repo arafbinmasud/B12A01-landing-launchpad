@@ -212,3 +212,43 @@ line-height: 0.1;
     border-radius: 48px;
 }
 
+
+/* Newsletter Section Styles */
+.newsletter{
+    /* background-color: rebeccapurple; */
+    padding: 71px 0px;
+    display: flex;
+    align-items: center;
+}
+
+.newsletter-title{
+    font-size: 97px;
+}
+
+.newsletter label, input{
+    display: block;
+}
+
+.newsletter label{
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.newsletter input, textarea{
+    width: 400px;
+    padding: 20px 32px;
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom:10px ;
+    border:none;
+    border-radius: 10px;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+}
+
+.newsletter textarea{
+  resize: none;
+}
+.newsletter button{
+    width: 100%;
+} 
